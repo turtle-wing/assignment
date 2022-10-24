@@ -5,10 +5,10 @@ data type that exist in the Python language.Please pay attention to the [PEP8](h
 
 **Answer:**
 
-...
-
+'''
 my_boolean_variable = False
 my_float_variable = 3.14
 my_int_variable = 35
-my_string_variable = " Gene 1"
-...
+my_string_variable = "Gene 1"
+my_null_variable = None
+'''
