@@ -1,6 +1,9 @@
 
 #ASSIGNMENT
 
+In this assignment, Shared Repository Model of collaborative programming with git is walked
+through. The following content with a collaborative programming scenario is expected to be
+replicated by the students in each work group. 
 
 GROUP 5:
 
